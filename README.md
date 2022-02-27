@@ -9,7 +9,7 @@ This Repository contains all my work & projects associated to Audio Processing T
 
   - [using playsound](https://github.com/Muhammad-Usama-07/Audio-Processing/commit/79f57bcdfcee744f00fdd68527d21fdc5e1e900b)
   
-  - [using simpleaudio](https://github.com/Muhammad-Usama-07/Audio-Processing/commit/60b46d402d766d420231877713f8849a08f401e1)
+  - [using simpleaudio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/60b46d402d766d420231877713f8849a08f401e1/AudioBasedWork.ipynb)
   
   - [using winsound](https://github.com/Muhammad-Usama-07/Audio-Processing/commit/efa7c7b758d1428e8e2bea7c16f9dfc80c08af98)
   
