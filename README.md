@@ -7,7 +7,7 @@ This Repository contains all my work & projects associated to Audio Processing T
 
 **Play audio using different libraries** 
 
-  [using playsound](https://github.com/Muhammad-Usama-07/Audio-Processing/commit/79f57bcdfcee744f00fdd68527d21fdc5e1e900b)
+  - [using playsound](https://github.com/Muhammad-Usama-07/Audio-Processing/commit/79f57bcdfcee744f00fdd68527d21fdc5e1e900b)
   
   [using simpleaudio](https://github.com/Muhammad-Usama-07/Audio-Processing/commit/60b46d402d766d420231877713f8849a08f401e1)
   
