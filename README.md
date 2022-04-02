@@ -24,4 +24,6 @@ This Repository contains all my work & projects associated to Audio Processing T
  - ## Project Reference
    https://medium.com/analytics-vidhya/speaker-identification-using-machine-learning-3080ee202920
    https://github.com/VaibhavBhapkar/Speaker-Identification-Using-Machine-Learning
+   
+## [SpeechClassifiation](https://github.com/Muhammad-Usama-07/Audio-Processing/tree/main/SpeechClassification)
 
