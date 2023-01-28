@@ -24,6 +24,8 @@ This Repository contains all my work & projects associated to Audio Processing T
   - [save silence removed file](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/93fc2d018cd3c691abe7c763dcda29db4de525e9/AudioBasedWork.ipynb)
   
   - [convert bytes to audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/62fd4d187b26fd47399666dded9a4bd1703cd313/AudioBasedWork.ipynb)
+  
+  - [text to speech using google api](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/6a6eff41619e3f191edc456904a5eee289de7a99/AudioBasedWork.ipynb) 
 
 
 # Projects 
