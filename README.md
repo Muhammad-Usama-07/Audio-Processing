@@ -22,6 +22,8 @@ This Repository contains all my work & projects associated to Audio Processing T
   - [find frame rate of audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/f440586892e300b21431db7e36be93e5b79aff6f/AudioBasedWork.ipynb)
   
   - [save silence removed file](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/93fc2d018cd3c691abe7c763dcda29db4de525e9/AudioBasedWork.ipynb)
+  
+  - [convert bytes to audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/62fd4d187b26fd47399666dded9a4bd1703cd313/AudioBasedWork.ipynb)
 
 
 # Projects 
