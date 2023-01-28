@@ -17,6 +17,8 @@ This Repository contains all my work & projects associated to Audio Processing T
   
   - [convert bytes to integar](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/0856baa3aaa8898d84fa799b6bc0f8fd38f23901/AudioBasedWork.ipynb)
   
+  - [Take bytes from audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/dca506e632e0ea123924acf30850319f9437e4fb/AudioBasedWork.ipynb)
+  
   - [find frame rate of audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/f440586892e300b21431db7e36be93e5b79aff6f/AudioBasedWork.ipynb)
 
 
