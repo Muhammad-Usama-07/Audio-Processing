@@ -14,6 +14,8 @@ This Repository contains all my work & projects associated to Audio Processing T
   - [using winsound](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/efa7c7b758d1428e8e2bea7c16f9dfc80c08af98/AudioBasedWork.ipynb)
   
   - [using sounddevice and soundfile](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/1c08a5ccc53a3e422c1169c114d084c1ee8dcb18/AudioBasedWork.ipynb)
+  
+  - [convert bytes to integar](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/0856baa3aaa8898d84fa799b6bc0f8fd38f23901/AudioBasedWork.ipynb)
 
 
 # Projects 
