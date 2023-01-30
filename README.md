@@ -33,6 +33,8 @@ This Repository contains all my work & projects associated to Audio Processing T
   - [Change Framerate of Audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/af27c41694a0424a1d39c3785bb70b8f972c0cca/AudioBasedWork.ipynb)
   
   - [Increase Volumn of Audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/8d8ae1b8beceff1e4fcbbd2e7f50c93ac023ac15/AudioBasedWork.ipynb)
+  
+  - [Normalize Loud Voice](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/main/AudioBasedWork.ipynb)
 
 
 # Projects 
