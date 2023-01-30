@@ -34,7 +34,7 @@ This Repository contains all my work & projects associated to Audio Processing T
   
   - [Increase Volumn of Audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/8d8ae1b8beceff1e4fcbbd2e7f50c93ac023ac15/AudioBasedWork.ipynb)
   
-  - [Normalize Loud Voice](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/main/AudioBasedWork.ipynb)
+  - [Normalize Loud Voice](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/7d56a61376bcf18849e56427457141653a2ac622/AudioBasedWork.ipynb)
   
   - [Seperately play splited audios](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/5da6e7f27d74509aa96c3c15c1beda85c13ebaf0/AudioBasedWork.ipynb)
 
