@@ -30,6 +30,7 @@ This Repository contains all my work & projects associated to Audio Processing T
   - [text to speech using google api](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/6a6eff41619e3f191edc456904a5eee289de7a99/AudioBasedWork.ipynb) 
   
   - [Compare Timestamps of Two Audios Though Visualization](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/5a91b3c621a2c496555eafb20267927d6dd0778f/AudioBasedWork.ipynb) 
+  - [Change Framerate of Audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/af27c41694a0424a1d39c3785bb70b8f972c0cca/AudioBasedWork.ipynb)
 
 
 # Projects 
