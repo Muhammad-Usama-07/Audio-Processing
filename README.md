@@ -42,6 +42,7 @@ This Repository contains all my work & projects associated to Audio Processing T
   
   - [Audio File Conversion Function](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/980d5219e2e79d8362ffa253ef197dfc5582e20b/AudioBasedWork.ipynb)
 
+  - [Show Stats of an Audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/ee2de9047fe03a27c79133ce5b0457cd7238246f/AudioBasedWork.ipynb)
 
 # Projects 
 ## [Voice Identification System](https://github.com/Muhammad-Usama-07/Audio-Processing-/tree/main/voice%20identification%20system)
