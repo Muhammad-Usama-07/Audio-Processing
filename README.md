@@ -39,6 +39,8 @@ This Repository contains all my work & projects associated to Audio Processing T
   - [Transcrib Text Using Noisy Audio](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/926fe224ab8275d6fe1fec806c83aefa81212820/AudioBasedWork.ipynb)
   
   - [Seperately play splited audios](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/5da6e7f27d74509aa96c3c15c1beda85c13ebaf0/AudioBasedWork.ipynb)
+  
+  - [Audio File Conversion Function](https://github.com/Muhammad-Usama-07/Audio-Processing/blob/980d5219e2e79d8362ffa253ef197dfc5582e20b/AudioBasedWork.ipynb)
 
 
 # Projects 
